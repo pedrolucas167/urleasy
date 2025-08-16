@@ -22,7 +22,6 @@ Uma aplicação para encurtar URLs, desenvolvida em **Java 17** com **Spring Boo
 - **Java 17** instalado
 - **Maven** instalado
 - **Docker** e **Docker Compose** instalados
-- Conexão com a internet para baixar dependências e imagens Docker
 
 ## Instalação
 
